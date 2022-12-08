@@ -2,3 +2,4 @@
 tp01 architecture web
 
 
+Comme convenu en cours, j'ai omis la partie jquery ne la connaissant pas suffisemment. 
